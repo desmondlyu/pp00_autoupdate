@@ -1,0 +1,9 @@
+pp00_autoupdate/
+├── main.py               # 主程式
+├── updater.py            # 更新器邏輯
+├── version.txt           # 記錄當前版本（或內嵌在程式中）
+├── requirements.txt      # 所需套件
+├── README.md
+├── .github/
+│   └── workflows/
+│       └── release.yml   # 自動發布的 GitHub Actions 腳本
