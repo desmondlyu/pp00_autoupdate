@@ -1,4 +1,4 @@
-# pp00_autoupdate
+# PP MSS transfer
 
 This project provides **MSS Transfer**, a small tool that turns the comment information inside your Excel `MSS` files into twelve columns required by our `PE` system. You simply pick an Excel file, start the process, and the program takes care of reorganising the data for you.
 
